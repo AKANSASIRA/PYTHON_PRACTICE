@@ -1,0 +1,2 @@
+a="omega"
+print(isaac())
